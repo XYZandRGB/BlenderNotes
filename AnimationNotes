@@ -1,0 +1,26 @@
+
+
+
+
+Export settings for NLA Animation:
+
+select armature and mesh
+export FBX
+selected objects, apply transform, meshandarmatureonly,check/uncheck NLA in animation tab
+make sure shield is in for all actions
+
+in Unity, drag to scene, add animator, add animation controller and point object animator to controller
+
+
+Attach bone to curve:
+
+Make a bone constraint in pose mode in the last bone in the chain. point it to the curve after ensuring that the number of bones matches teh number of control points on the curve (usually vertices divided by 3.
+
+add ample geometry and set all object origins to starting point of curve.
+
+
+Set rest position
+
+
+
+

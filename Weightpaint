@@ -1,0 +1,6 @@
+Weight Paint mode:
+click rig then mesh (opposite of normal) and enter weight paint mode
+select bone with alt LMB
+
+some helpful settings:
+xray: brush settings advanced, brush setting front faces off and brush type project under falloff
